@@ -5,3 +5,7 @@
 # PYTH
 # PYTHO
 # PYTHON
+
+inp = input()
+for i in range(len(inp)):
+    print(inp[0:i+1])
