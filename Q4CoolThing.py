@@ -12,4 +12,4 @@ for i in range(len(inp)):
     for l in range(round((len(inp)-i)/1.9)):
         prnt=prnt+" "
     print(prnt,inp[0:i+1],prnt); timer(0.05*len(inp)+6)
-time.sleep(2);os.system('clear'); print("Your welcome for the preformance by your's truly, the rizzler above the gray autism")
+time.sleep(2);os.system('clear'); print("Your welcome for the preformance by your's truly, Bryson")
