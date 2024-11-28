@@ -7,4 +7,4 @@
 
 import time; inp = input(); prnt = ""
 for i in range(len(inp)):
-    prnt=prnt+inp[len(inp)-i-1]; print(prnt, end='\r'); time.sleep(0.6/len(inp)+0.04)
+    prnt=prnt+inp[len(inp)-i-1]; print(prnt, end='\r'); time.sleep(2/len(inp)*2)
